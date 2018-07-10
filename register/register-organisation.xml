@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Organisationenregister</title>
+                <author>
+                    <persName>Martin Prell</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project"
+                        >Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)</orgName>
+                    <orgName role="hostingInstitution"
+                        >Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+                    <orgName role="hostingInstitution">Friedrich-Schiller-Universität Jena</orgName>
+                </publisher>
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2017-02-28T23:59:59Z</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"
+                        >Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Das Register erfasst die Organisationen innerhalb der Briefe Heinrichs XXIV. an Erdmuthe Benigna in alphabetischer Reihenfolge. Die Verweise auf die Briefe sind nach Jahreszahl geordnet. Die in den editorischen Kommentaren auftretenden Organisationen sind nicht indexiert.</p>
+            <lb/>
+
+            <listOrg>
+
+                <org xml:id="amt_ebersdorf">
+                    <orgName>Amt Ebersdorf</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März <date
+                                type="year">1714</date></ref>
+                    </note>
+                </org>
+
+                <org xml:id="gem_regierung_gera">
+                    <orgName>Gemeinschaftliche Regierung Reuß jüngerer Linie in Gera</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni <date
+                                type="year">1713</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember <date
+                                type="year">1712</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März <date
+                                type="year">1713</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November <date
+                                type="year">1713</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f807c583-f754-4e7e-a606-b6211a6536616"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (September <date
+                                type="year">1714</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9edd6d7d-3e39-4147-9119-6a9f79e9b0f99"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-caf8bc3d-096b-478c-98dd-7ef841b4c79f0"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März <date
+                                type="year">1712</date>)</ref>
+                    </note>
+                </org>
+
+                <org xml:id="gem_konsistorium_gera">
+                    <orgName>Gemeinschaftliches Konsistorium Reuß jüngerer Linie in Gera</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November <date
+                                type="year">1711</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober <date
+                                type="year">1717</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember <date
+                                type="year">1714</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August <date
+                                type="year">1714</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli <date
+                                type="year">1715</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni <date
+                                type="year">1715</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9a691c0b-0b04-4dcb-9f4a-8eefc6fd04236"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9edd6d7d-3e39-4147-9119-6a9f79e9b0f99"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember <date
+                                type="year">1712</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar <date
+                                type="year">1713</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März <date
+                                type="year">1713</date></ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November <date
+                                type="year">1713</date></ref>
+                    </note>
+                </org>
+
+                <org xml:id="gem_rentamt">
+                    <orgName>Gemeinschaftliches Rentamt Reuß jüngerer Linie</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-caf8bc3d-096b-478c-98dd-7ef841b4c79f0"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März <date
+                                type="year">1712</date>)</ref>
+                    </note>
+                </org>
+
+                <org xml:id="inspektionsamt_ebersdorf">
+                    <orgName>Inspektionsamt der Herrschaft Reuß-Ebersdorf</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember <date
+                                type="year">1716</date></ref>
+                    </note>
+                </org>
+
+                <org xml:id="konsistorium_obergreiz">
+                    <orgName>Konsistorium der Herrschaft Obergreiz (älterer Linie)</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember <date
+                                type="year">1716</date></ref>
+                    </note>
+
+                </org>
+
+                <org xml:id="reichskammergericht_wetzlar">
+                    <orgName ref="http://d-nb.info/gnd/64409-2"
+                        >Reichskammergericht Wetzlar</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b3e98f42-aaa2-49a7-8538-5633b984d4043"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Mai <date
+                                type="year">1712</date>)</ref>
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar <date
+                                type="year">1713</date></ref>
+                    </note>
+                </org>
+
+                <org xml:id="landtag_reuß">
+                    <orgName>Reußischer Landtag</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März <date
+                                type="year">1712</date>)</ref>
+                    </note>
+                </org>
+
+                <org xml:id="wetterauisches_grafenkolleg">
+                    <orgName ref="http://d-nb.info/gnd/4231702-2"
+                        >Wetterauisches Reichsgrafenkollegium</orgName>
+                    <note type="references">
+                        <ref
+                            target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November <date
+                                type="year">1714</date></ref>
+                    </note>
+                </org>
+
+            </listOrg>
+        </body>
+    </text>
+</TEI>

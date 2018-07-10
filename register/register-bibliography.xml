@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bibliographie</title>
+                <author>
+                    <persName>Martin Prell</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project">Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)</orgName>
+                    <orgName role="hostingInstitution">Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+                    <orgName role="hostingInstitution">Friedrich-Schiller-Universität Jena</orgName>
+                </publisher>
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2017-02-28T23:59:59Z</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+                        Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+          
+          <p>Diese Bibliographie listet die in den editorischen Kommentaren verwendeten Quellen und Sekundärliteratur auf.</p><lb/>
+          
+          <p><hi rend="bold">I. Quellen</hi></p>
+          
+          <bibl corresp="lobensteinisches_intelligenzblatt">Lobensteinisches Gemeinnütziges Intelligenzblatt. Lobenstein 1784-1805.</bibl>
+          
+          <bibl corresp="muetterliche_vermahnungen"><ref target="http://diglib.hab.de/edoc/ed000243/start.htm">Martin Prell (Hg.): Digitale Edition der &quot;mütterlichen Vermahnungen&quot; der Gräfin Benigna von Solms-Laubach (1717). Wolfenbüttel 2016.</ref>
+          </bibl>
+          
+          <bibl corresp="schulze_hausgesetze_reuss">Hermann Schulze (Hg.): Die Hausgesetze der regierenden deutschen Fürstenhäuser. Zweiter Band. Jena 1878.</bibl>
+          
+          <bibl corresp="schreibkalender_1713">O.V.:  Schreibkalender von 1713. Deutsches Tagebucharchiv, Signatur- (Regnummer): 1809-1 (1537-1) (vermutlich Schreibkalender des Zeremonien- oder Küchenmeisters Heinrichs XXIV. Reuß-Köstritz. Sebastian W Stork (BBAW) ist sehr herzlich für den Hinweis auf diese Quelle gedankt).</bibl><lb/>
+          
+          <p><hi rend="bold">II. Sekundärliteratur</hi></p>
+         
+          <bibl corresp="datenbank_frankeschestiftungen"><ref target="http://192.124.243.55/cgi-bin/gkdb.pl">&#x201e;Datenbank zu den Einzelhandschriften in den historischen Archivabteilungen&#x201c; der Frankeschen Stiftungen zu Halle.</ref>
+          </bibl>
+          
+          <bibl corresp="heller_pfarrerbuch">Paul Heller: Thüringer Pfarrerbuch. Bd. 4. Die reußischen Herrschaften. Hg. von der Gesellschaft für thüringische Kirchengeschichte. Leipzig 2004.</bibl>
+          
+          <bibl corresp="michel_gesangbuchfroemmigkeit">Stefan Michel: Gesangbuchfrömmigkeit und regionale Identität: ihr Zusammenhang und Wandel in den reußischen Herrschaften vom 17. bis zum 20. Jahrhundert. Leipzig 2007.</bibl>
+          
+          <bibl corresp="schmidt_genealogie_reuss">Berthold Schmidt (Hg.): Die Reussen. Genealogie des Gesamthauses Reuss älterer und jüngerer Linie sowie der ausgestorbenen Vogtslinien zu Weida, Gera und Plauen und der Burggrafen zu Meissen aus dem Hause Plauen. Schleiz 1903.</bibl>
+          
+          <bibl corresp="wunder_erdmuthe">Heide Wunder: Öffentlichkeiten und Geschlechterverhältnisse. Die Regentschaft der Reichsgräfin Erdmuthe Benigna von Reuß-Ebersdorf. In: Politik in verflochtenen Räumen. Festschrift für Marianne Braig. Hg. v. Markus Hochmüller u.a. Berlin 2013, 242-262.</bibl><lb/>
+          
+          <p><hi rend="bold">III. Wörterbücher/Lexika/Hilfsmittel</hi></p>
+          
+          <bibl corresp="deutches_rechtswoerterbuch"><ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige">Deutsches Rechtswörterbuch. Hg. v. der Heidelberger Akademie der Wissenschaften u. Andreas Deutsch. 13 Bde. Weimar 1914-.</ref>
+          </bibl>
+          
+          <bibl corresp="wander"><ref target="http://woerterbuchnetz.de/Wander/">Deutsches Sprichwörter-Lexikon. Hg. v. Karl Friedrich Wilhelm Wander. 5 Bde. Leipzig 1867-1880.</ref>
+          </bibl>
+          
+          <bibl corresp="deutsches_woerterbuch_grimm"><ref target="http://woerterbuchnetz.de/DWB/">Deutsches Wörterbuch von Jacob und Wilhelm Grimm. 16 Bde. in 32 Teilbänden. Leipzig 1854-1961.</ref></bibl>
+          
+          <bibl corresp="goethe_woerterbuch"><ref target="http://woerterbuchnetz.de/GWB/">Goethe-Wörterbuch. Hg. v. der Berlin-Brandenburgischen Akademie der Wissenschaften [bis Bd. 1, 6. Lfg.: Deutsche Akademie der Wissenschaften zu Berlin; bis Bd. 3, 4. Lfg.: Akademie der Wissenschaften der DDR], der Akademie der Wissenschaften in Göttingen und der Heidelberger Akademie der Wissenschaften. Stuttgart 1978-.</ref></bibl>
+          
+          <bibl corresp="adelung"><ref target="http://woerterbuchnetz.de/Adelung/">Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen. Hg. v. Johann Christoph Adelung. Zweyte, vermehrte und verbesserte Ausgabe. Leipzig 1793-1801.</ref>
+          </bibl>
+          
+          <bibl corresp="zedler"><ref target="https://www.zedler-lexikon.de">Grosses vollständiges Universal-Lexikon. Hg. von Johann Heinrich Zedler. Bd. 50. Leipzig u. Halle 1746.</ref>
+          </bibl>
+          
+          <bibl corresp="muenzen_masse_gewichte_thueringen">Peter Langhof u.a.: Münzen, Maße und Gewichte in Thüringen. Hilfsmittel zu den Beständen des Thüringischen Staatsarchivs Rudolstadt [Thüringisches Staatsarchiv Rudolstadt, Informationsheft Nr. 7]. 3. Aufl. Rudolstadt 2006.
+              <ref target="https://www.thueringen.de/mam/th1/staatsarchive/repertorien/ih_7.pdf">[PDF]</ref>
+          </bibl>
+          
+          <bibl corresp="meyers_konversationslexikon"><ref target="http://woerterbuchnetz.de/Meyers/">Meyers Großes Konversationslexikon. Ein Nachschlagewerk des allgemeinen Wissens. Sechste, gänzlich neubearbeitete und vermehrte Auflage. Leipzig und Wien 1905-1909.</ref>
+          </bibl>
+          
+          <bibl corresp="pfaelzisches_woerterbuch"><ref target="http://woerterbuchnetz.de/PfWB/">Pfälzisches Wörterbuch. Begründet von Ernst Christmann. Fortgef. von Julius Krämer. Bearb. von Rudolf Post. Unter Mitarb. von Josef Schwing und Sigrid Bingenheimer. 6 Bde. und ein Beiheft. Stuttgart 1965-1998.</ref>
+          </bibl>
+          
+          <bibl corresp="schweser_handlexikon"><ref target=" http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10584730-4">Christoph Heinrich Schweser: Des klugen Beamten tägliches Hand-Lexicon Nebst e. Anh. e. vollständigen Wörterbuchs von d. jüdisch-teutschen u. rothwelschen od. sog. Spitzbuben Sprache ... wie auch e. alph. Verz. d. Meßen und Märkte. Nürnberg 1768.</ref>
+              </bibl>
+         
+      </body>
+  </text>
+</TEI>
