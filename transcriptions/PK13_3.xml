@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PK13_3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Erdmuthe Benigna von Reuß-Ebersdorf an Heinrich XXIV. von Reuß-Schleiz zu Köstritz (Ebersdorf, 23. Februar 1712)</title>
+                <funder>Friedrich-Schiller-Universität Jena: ProChance-Programm</funder>
+                <principal>
+                    <persName ref="http://d-nb.info/gnd/130511005" xml:id="JSF">
+                        <surname>Schmidt-Funke</surname>
+                        <forename>Julia A.</forename>
+                        <email>julia-annette.schmidt-funke@uni-jena.de</email>
+                    </persName>
+                    <affiliation>
+                        <orgName ref="http://d-nb.info/gnd/36164-1">Friedrich-Schiller-Universität Jena, Historisches Institut, Lehrstuhl für Geschlechtergeschichte</orgName>
+                        <address>
+                            <street>Zwätzengasse 3</street>
+                            <postCode>07743</postCode>
+                            <settlement>Jena</settlement>
+                            <country>Deutschland</country>
+                        </address>
+                    </affiliation>
+                </principal>
+                <respStmt>
+                    <resp>
+                        <note type="remarkResponsibility">Quellenrecherche, Transkription, Auszeichnung nach TEI P5 und Annotation durch</note>
+                    </resp>
+                    <persName xml:id="MP">
+                        <surname>Prell</surname>
+                        <forename>Martin</forename>
+                        <email>martin.prell@gmx.net</email>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>
+                        <note type="remarkResponsibility">Quellenrecherche durch</note>
+                    </resp>
+                    <persName xml:id="KW">
+                        <surname>Wolf</surname>
+                        <forename>Kerstin</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>
+                        <note type="remarkResponsibility">Ersttranskription durch</note>
+                    </resp>
+                    <persName xml:id="SS">
+                        <surname>Schneider</surname>
+                        <forename>Susanne</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>
+                        <note type="remarkResponsibility">Digitalisierung der Faksimiles und langfristige Bereitstellung der Digitalisate durch</note>
+                        <ref target="http://www.urmel-dl.de"/>
+                    </resp>
+                    <orgName ref="http://www.thulb.uni-jena.de">Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Vollständige digitalisierte Ausgabe.</edition>
+            </editionStmt>
+            <extent>
+                <measure type="images">6</measure>
+            </extent>
+            <publicationStmt> 
+                <publisher>
+                    <orgName role="project">Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)</orgName>
+                    <orgName role="hostingInstitution">Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+                    <orgName role="hostingInstitution">Friedrich-Schiller-Universität Jena</orgName>
+                </publisher>
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2017-02-28T23:59:59Z</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">
+                        Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLXML"
+                        >http://archive.thulb.uni-jena.de/hisbest/servlets/MCRDerivateContentTransformerServlet/HisBest_derivate_00017904/tei/transcription/PK13_1_0001.xml</idno>
+                </idno>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)</title>
+                <title type="sub">Briefe von Erdmuthe Benigna an Heinrich XXIV. von Reuß-Schleiz zu Köstritz</title>
+                <title type="genre">Briefe</title>
+                <title type="topic">Namensnennung und -anordnung der Vormünder im Fürbittgebet</title>
+                <title type="topic">Strafgeld für nichterscheinende Untertanen</title>
+                <title type="topic">Erlass einer Polizeiverordnung gegen übermäßiges Fressen und Saufen bei Hochzeiten und Taufen</title>
+                <title type="topic">Schulvisitation</title>
+                <title type="topic">Steuerpatente</title>
+                <title type="topic">Anwerbung Klein-Nikolais</title>
+                <title type="topic">Bediensteter Leidemitz</title>
+                <title type="topic">Bedienstete für die Kinder Heinrichs XXIV. Reuß-Köstritz</title>
+                <title type="topic">Geraer Geschlechtstag</title>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Staatsarchiv Greiz</institution>
+                        <repository>Bestände vor 1920 / Reuß jüngerer Linie / Urkunden, Hausarchive, Verwaltung des Hausvermögens / Paragiatsherrschaft Köstritz</repository>
+                        <collection>I Ab. Jüngere Linie Reuß (1586) 1666-1848</collection>
+                        <idno>
+                            <idno type="shelfmark">IV 13</idno>
+                            <idno type="folio">3ar-4v</idno>
+                            <idno type="URLImages">http://archive.thulb.uni-jena.de/hisbest/rsc/viewer/HisBest_derivate_00017904/PK13_1_0001.tif</idno>
+                            <idno type="URNLetter">http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3</idno>
+                        </idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <incipit>Jch hoffe sie werden glicklich Zu kestritz an ge langet sein,</incipit>
+                            <docDate when="1712-02-23">23. Februar 1712</docDate>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <extent>
+                                    <measure type="folio">
+                                        3 Blätter</measure>
+                                    <dimensions type="leaves">
+                                        <height unit="mm" atMost="195"/>
+                                        <width unit="mm" atMost="165"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation corresp="#archivist_hand">
+                                    Foliierung in Bleistift durch das Archiv.
+                                </foliation>
+                                <condition>Der Brief ist gut erhalten. Minimaler Ausriss an Stelle des Verschlusses durch Siegel. Der Brief ist gerahmt von einem schwarzen Trauerrand</condition>
+                        </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="erdmuthebenigna_hand" scope="major" medium="black_ink" scribe="author" scribeRef="http://d-nb.info/gnd/139081127">
+                                Hand des Absenders Erdmuthe Benigna von Reuß-Ebersdorf in schwarzer Tinte, vorwiegend in Kurrentschrift.
+                            </handNote>
+                            <handNote xml:id="archivist_hand" scope="minor" medium="grey_pencil" scribe="archivist" scribeRef="http://d-nb.info/gnd/5080444-3">
+                                Vermutlich Hand einer/s Archivarin/Archivars mit grauem Bleistift, lediglich bei Foliierung auftretend.
+                            </handNote>
+                            <handNote xml:id="heinrichxxiv_hand" scope="minor" medium="red_pencil" scribe="adressee" scribeRef="http://d-nb.info/gnd/130132365">
+                                Hand des Empfängers Heinrich XXIV. von Reuß-Schleiz zu Köstritz mit rotem Buntstift.
+                            </handNote>
+                            <handNote xml:id="heinrichxxiv_hand2" scope="minor" medium="black_ink" scribe="adressee" scribeRef="http://d-nb.info/gnd/130132365">
+                                Hand des Empfängers Heinrich XXIV. von Reuß-Schleiz zu Köstritz in schwarzer Tinte.
+                            </handNote>
+                            <handNote xml:id="scribe_hand" scope="minor" medium="black_ink" scribe="scribe" scribeRef="http://d-nb.info/gnd/126788715">
+                                Hand eines Schreibers Erdmuthe Benignas, vermutlich des Amtsschreibers Johann Alexander Zeller in schwarzer Tinte, ausschließlich auf Briefumschlag.
+                            </handNote>
+                        </handDesc>
+                        <sealDesc> 
+                            <p>Schwarzes Wachssiegel Erdmuthe Benignas von Reuß-Ebersdorf auf <ref target="PK13_3_0004.tif">Blatt 4v</ref>.</p>
+                        </sealDesc>
+                        <accMat><ref target="PK13_3_0004.tif">Blatt 4v</ref> dient als Briefumschlag.</accMat> 
+                    </physDesc>
+                    <history>
+                        <origin>Der Brief wurde in <origPlace ref="http://www.geonames.org/2933921/ebersdorf.html" corresp="#ebersdorf" resp="#MP">Ebersdorf</origPlace> am <origDate when="1712-02-23">23. Februar 1712</origDate> verfasst.</origin>
+                    <acquisition>Der Bestand Paragiatsherrschaft Köstritz ist Eigentum <persName xml:id="heinrichxiv_reuß">Heinrichs XIV. Prinz Reuß</persName>. Das Thüringische Staatsarchiv Greiz ist Bestandshalter und besitzt Nutzungsrechte daran.
+                    </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Martin Prell: Selbstentwurf und Herrschaftspraxis. Die Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670–1732). Erscheint im Tagungsband zur Tagung „Gender-Pietismus-Adel“, die vom 21.-24. Oktober 2015 in den Franckeschen Stiftungen zu Halle stattfand.</bibl>
+                            <bibl>Heide Wunder: Öffentlichkeiten und Geschlechterverhältnisse. Die Regentschaft der Reichsgräfin Erdmuthe Benigna von Reuß-Ebersdorf. In: Politik in verflochtenen Räumen. Festschrift für Marianne Braig. Hg. v. Markus Hochmüller [u.a.]. Berlin 2013, 242-262.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc><p>Digitale Edition der Briefe Erdmuthe Beningas von Reuß-Ebersdorf (1670-1732)</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>
+<![CDATA[
+<p>
+Schreibfehler: dokumentiert;
+fremdsprachliches Material: gekennzeichnet;
+Geminations-/Abkürzungsstriche: wie Vorlage;
+Hervorhebungen (Latein, Kursive etc.): wie Vorlage;
+y mit Trema (&#x00FF;): dokumentiert;
+doppelte, schräge Silbentrennstriche (&#x2E17;): dokumentiert;
+langes s (&#x017F;): dokumentiert;
+Normalisierungen: dokumentiert;
+Seitenumbrüche markiert: ja;
+Silbentrennung: wie Vorlage;
+Vokale mit übergest. e: dokumentiert;
+Endhaken/Endverschleifung (&#x02F7;): dokumentiert;
+Suspensionsschleifen (&#x2113;): dokumentiert;
+Abkürzungen: dokumentiert;
+Vollständigkeit: vollständig erfasst;
+Zeichensetzung: wie Vorlage;
+Zeilenumbrüche markiert: ja;
+</p>
+]]>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="deu">German</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/139081127">
+                        <surname>Reuß-Ebersdorf</surname>
+                        <forename>Erdmuthe Benigna von</forename>
+                    </persName>
+                    <settlement ref="http://www.geonames.org/2933921/ebersdorf.html">Ebersdorf</settlement>
+                    <date when="1712-02-23">23. Februar 1712</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130132365">
+                        <surname>Reuß-Schleiz zu Köstritz</surname>
+                        <forename>Heinrich XXIV. von</forename>
+                    </persName>
+                    <date when="1712-02-25">25. Februar 1712</date>
+                    <settlement ref="http://www.geonames.org/2953417/bad-koestritz.html">Köstritz</settlement>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" subtype="toAuthor" target="PK13_5">Nachfolgender Brief von
+                        <persName ref="http://d-nb.info/gnd/130132365">
+                            <surname>Reuß-Schleiz zu Köstritz</surname>
+                            <forename>Heinrich XXIV. von</forename>
+                        </persName> an
+                        <persName ref="http://d-nb.info/gnd/139081127">
+                            <surname>Reuß-Ebersdorf</surname>
+                            <forename>Erdmuthe Benigna von</forename>
+                        </persName>
+                        <settlement ref="http://www.geonames.org/2953417/bad-koestritz.html">Köstritz</settlement>
+                        <date when="1712-02-26">26. Februar 1712</date>
+                    </ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="PK13_3_0001.tif" n="3ar"/>
+            <div type="letter" n="1">
+                <fw type="folNum" place="top-right" hand="#archivist_hand">3</fw>
+                <cb type="start" rend="left"/><note hand="#heinrichxxiv_hand2" place="top"><hi rend="latin" xml:lang="lat"><choice><abbr>pr:</abbr><expan resp="#MP">praesentatum</expan></choice></hi> am <date type="received" when="1712-02-25">25. <hi rend="latin" xml:lang="lat"><choice><abbr>Feb:</abbr><expan resp="#MP">Februarius/Februarii</expan></choice></hi><lb/>
+                    1712.</date></note><cb type="end" rend="left"/><lb/>
+                <cb type="start" rend="middle"/><note hand="#heinrichxxiv_hand2" place="top">am <date type="responded" when="1712-02-26" cert="high">26. <hi rend="latin" xml:lang="lat"><choice><abbr>Feb:</abbr><expan resp="#MP">Februarius/Februarii</expan></choice></hi></date><lb/>
+                    <choice><abbr>beant:</abbr><expan resp="#MP">beantwortet</expan></choice><note type="editorial" resp="#MP">Das Antwortschreiben Heinrichs XXIV. Reuß-Köstritz vom 26. Februar 1712 ist in <ref target="http://archive.thulb.uni-jena.de/hisbest/receive/HisBest_cbu_00031027">Abschrift</ref> erhalten.</note></note><cb type="end" rend="middle"/><lb/>
+                <opener>
+                    <cb type="start" rend="right"/><dateline rend="align-right"><add hand="#heinrichxxiv_hand2" place="inline"><hi rend="latin"><placeName ref="http://www.geonames.org/2933921/ebersdorf.html" corresp="#ebersdorf" resp="#MP"><choice><abbr>Ebersd.</abbr><expan resp="#MP">Ebersdorf</expan></choice></placeName></hi></add> din&#x017F;tags <date type="sent" when="1712-02-23"><add hand="#heinrichxxiv_hand2" place="inline">am 23.</add><lb/>
+                        <hi rend="latin" xml:lang="lat"><choice><abbr>Feb:</abbr><expan resp="#MP">Februarius/Februarii</expan></choice></hi> 1712.</date></dateline><cb type="end" rend="right"/><lb/>
+                    <salute rend="indent">allerlieb&#x017F;ter <choice><abbr>H</abbr><expan resp="#MP">Herr</expan></choice> <rs type="person" ref="http://d-nb.info/gnd/130132365" corresp="#heinrichxxiv_koestritz" resp="#MP">vetter</rs>,
+                    </salute>
+                </opener><lb/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Jch hoffe &#x017F;ie werden glicklich Zu <subst><del rend="erasure">g<unclear reason="illegible" cert="low" resp="#MP">e&#x017F;tr</unclear></del><add place="across">ke&#x017F;t</add></subst>ri<unclear reason="border" cert="high" resp="#MP">tz</unclear><lb/>
+                    <choice><orig>an ge langet</orig><reg resp="#MP">angelanget</reg></choice> &#x017F;ein, al&#x017F; &#x017F;ie wech waren fihl<lb/>
+                    mir noch gar vieles ein mit ihnen Zu rede<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    <choice><orig>under andern</orig><reg resp="#MP">underandern</reg></choice> war auch wegen des <choice><orig>kirchen</orig><reg resp="#MP">kirchen-</reg></choice><lb/>
+                    <hi rend="mark color(#FA5858)" hand="#heinrichxxiv_hand" cert="high"><choice><orig>ge betes</orig><reg resp="#MP">gebetes</reg></choice> wie nuhn die ordnung &#x017F;ein &#x017F;oll</hi><lb/>
+                    <choice><orig>biß her</orig><reg resp="#MP">bißher</reg></choice> haben &#x017F;ie nur alleine vor mich <choice><orig>ge</orig><reg resp="#MP">ge-</reg></choice><lb/>
+                    bettet nuhn müßen &#x017F;ie <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> <choice><orig>da be&#x00FF; &#x017F;etzen</orig><reg resp="#MP">dabe&#x00FF;&#x017F;etzen</reg></choice><lb/>
+                    mein bruder <persName ref="http://d-nb.info/gnd/117462284" corresp="#carl_otto_solms" resp="#MP">Carel</persName> meinde wenn nuhn die<lb/>
+                    <choice><orig>vor munt &#x017F;chafft</orig><reg resp="#MP">vormunt&#x017F;chafft</reg></choice> <choice><orig>be &#x017F;tetichet</orig><reg resp="#MP">be&#x017F;tetichet</reg></choice> wöre, &#x017F;o &#x017F;olte<lb/>
+                    mann ohne große benenungen der <choice><orig>per &#x017F;ohnen</orig><reg resp="#MP">per&#x017F;ohnen</reg></choice><lb/>
+                    die &#x017F;em&#x0305;tliche <choice><orig>vor<unclear reason="illegible" cert="high" resp="#MP"> </unclear>munt &#x017F;chafftz her&#x017F;chafft</orig><reg resp="#MP">vormunt&#x017F;chafftzher&#x017F;chafft</reg></choice> &#x017F;etzen<lb/>
+                    <subst><del rend="erasure"><gap reason="illegible" unit="words" quantity="1"/></del><add place="across">wei</add></subst>l &#x017F;ie in ihren packten in weltlichen dinge<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    <choice><orig>ver ordnet</orig><reg resp="#MP">verordnet</reg></choice> hätten daß die mutter nach denn<lb/>
+                    anderen<add place="superlinear"> rei&#x017F;i&#x017F;chen</add> vor<unclear reason="illegible" cert="high" resp="#MP"> </unclear>mund, ge<unclear reason="illegible" cert="high" resp="#MP"> </unclear>&#x017F;etzet wirde, von ordnungen<lb/>
+                    aber <del rend="strikethrough">diß</del> der <choice><orig>vor bitte</orig><reg resp="#MP">vorbitte</reg></choice> nichts <choice><orig>drinen &#x017F;tinde</orig><reg resp="#MP">drinen&#x017F;tinde</reg></choice><lb/>
+                    und nach göttlichen <choice><orig>ge &#x017F;etzen</orig><reg resp="#MP">ge&#x017F;etzen</reg></choice> die mutter doch<lb/>
+                    <hi rend="mark color(#FA5858)" hand="#heinrichxxiv_hand" cert="high">näher wöre, und nach der <choice><orig>vor mund<unclear reason="illegible" cert="high" resp="#MP"> </unclear>&#x017F;chafft</orig><reg resp="#MP">vormund&#x017F;chafft</reg></choice><lb/>
+                        daß er&#x017F;te nach dem&#x0305; <subst><del rend="overwritten">kind</del><add place="across">&#x017F;ohn</add></subst> <choice><orig>ge &#x017F;etzet</orig><reg resp="#MP">ge&#x017F;etzet</reg></choice> wirde, &#x017F;o</hi><lb/>
+                    meinde er wann mann &#x017F;ie gar nicht nen<unclear reason="illegible" cert="low" resp="#MP">e</unclear>te,<lb/>
+                    gott kenete &#x017F;ie doch, &#x017F;chreiben mir nuhn <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice><lb/>
+                    ihre meinung, ob die nahm&#x0305;en mißen <choice><orig>ge nenet</orig><reg resp="#MP">genenet</reg></choice><lb/>
+                    <pb facs="PK13_3_0002.tif" n="3av"/>
+                    werden, der <rs type="person" ref="http://d-nb.info/gnd/126788715" corresp="#johann_alexander_zeller" resp="#MP"><choice><orig>am&#x0305;t mann</orig><reg resp="#MP">am&#x0305;tmann</reg></choice></rs> fragt auch die leüde<lb/>
+                    beßer in <choice><orig>ge hor&#x017F;am&#x0305;</orig><reg resp="#MP">gehor&#x017F;am&#x0305;</reg></choice> Zu bringen, weil &#x017F;ie nicht<lb/>
+                    <hi rend="underline color(#FA5858)" hand="#heinrichxxiv_hand" cert="high"><choice><orig>er &#x017F;cheinen</orig><reg resp="#MP">er&#x017F;cheinen</reg></choice> wenn &#x017F;</hi>ie <choice><orig>be &#x017F;telt</orig><reg resp="#MP">be&#x017F;telt</reg></choice> werden, ob es nicht<lb/>
+                    wohl ge<unclear reason="illegible" cert="high" resp="#MP"> </unclear>than wöre wenn mann einen ieden<lb/>
+                    vor Eine &#x017F;tunde <choice><orig>außen bleiben</orig><reg resp="#MP">außenbleiben</reg></choice> 2 <choice><abbr>gr</abbr><expan resp="#MP">groschen</expan></choice> liße<lb/>
+                    in eine <choice><orig>arm&#x0305;en bickße</orig><reg resp="#MP">arm&#x0305;enbickße</reg></choice> thun dann wann<lb/>
+                    mann &#x017F;ie <choice><orig>ein &#x017F;tekt</orig><reg resp="#MP">ein&#x017F;tekt</reg></choice> <choice><orig>be köm&#x0305;e</orig><reg resp="#MP">beköm&#x0305;e</reg></choice> der <choice><orig>lant knecht</orig><reg resp="#MP">lantknecht</reg></choice><lb/>
+                    5 <choice><abbr>gr</abbr><expan resp="#MP">groschen</expan></choice>,<add place="superlinear"> d<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>ß wöre Zu viel</add> die bardien<note type="editorial" resp="#MP">Meint: Partien bzw Parteien.</note> mi&#x017F;ten offt <choice><orig>un verichter</orig><reg resp="#MP">unverichter</reg></choice> &#x017F;ache<lb/>
+                    wider <choice><orig>Zu rick</orig><reg resp="#MP">Zurick</reg></choice> gehen, und dann meind<subst><del rend="overwritten">en</del><add place="across">e</add></subst> <subst><del rend="overwritten"><unclear reason="illegible" cert="high" resp="#MP">wir</unclear></del><add place="across">ich</add></subst><lb/>
+                    es wöre gut wenn mann in <choice><orig><hi rend="latin">policei</hi> dingen</orig><reg resp="#MP"><hi rend="latin">policei</hi>dingen</reg></choice> einig<choice><orig>&#x02F7;</orig><reg resp="#MP">e</reg></choice><lb/>
+                    gude <choice><orig>an &#x017F;talten</orig><reg resp="#MP">an&#x017F;talten</reg></choice> machte, al&#x017F; nehm&#x0305;lich <del rend="strikethrough">heid</del><lb/>
+                    <del rend="strikethrough">er fa</del> d<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>ß mann d<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>ß <choice><orig>über meßiche</orig><reg resp="#MP">übermeßiche</reg></choice> freße<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    &#x017F;auffen und andere <choice><orig>un ko&#x017F;ten</orig><reg resp="#MP">unko&#x017F;ten</reg></choice> der <choice><orig>under</orig><reg resp="#MP">under-</reg></choice><lb/>
+                    thanen be&#x00FF; denn hochZeiten und kintaufte<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    <choice><orig>ver bötte</orig><reg resp="#MP">verbötte</reg></choice>,<note type="editorial" resp="#MP">Vgl. hierzu die am 4. Juli 1712 erlassene <ref target="http://archive.thulb.uni-jena.de/hisbest/receive/HisBest_cbu_00032270">Verordnung gegen übermäßiges Fressen bei Kindstaufen</ref>.</note> der <persName ref="http://d-nb.info/gnd/104254300" corresp="#heinrichxv_lobenstein" resp="#MP">15</persName> hatt auch <choice><orig>der gleichen</orig><reg resp="#MP">dergleichen</reg></choice><lb/>
+                    thun wollen, und wöre gud wenn &#x017F;ie es<lb/>
+                    <rs type="place" ref="http://www.geonames.org/2876721/bad-lobenstein.html" corresp="#lobenstein" resp="#MP">drinen</rs> <choice><orig>Zu gleich</orig><reg resp="#MP">Zugleich</reg></choice> <choice><orig>mit thäten</orig><reg resp="#MP">mitthäten</reg></choice> es wird aber<lb/>
+                    nichts trauß, &#x017F;o wolten wir, waß <choice><orig>auf</orig><reg resp="#MP">auf-</reg></choice><lb/>
+                    &#x017F;etzen laßen<unclear reason="illegible" cert="high" resp="#MP">,</unclear> wie es in d<choice><unclear reason="illegible" cert="high" resp="#MP">e</unclear><unclear reason="illegible" cert="low" resp="#MP">a</unclear></choice>nn unßeren <choice><orig>ge</orig><reg resp="#MP">ge-</reg></choice><lb/>
+                    halten &#x017F;olte werden und denn <persName ref="http://d-nb.info/gnd/104254300" corresp="#heinrichxv_lobenstein" resp="#MP">15</persName> <hi rend="latin">comuniciren</hi><lb/>
+                    <subst><del rend="overwritten"><gap reason="incomplete" unit="chars" quantity="1"/></del><add place="across">o</add></subst>b er <subst><del rend="overwritten"><gap reason="illegible" unit="chars" quantity="1"/></del><add place="across">n</add></subst>icht auch <choice><orig>der gleichen</orig><reg resp="#MP">dergleichen</reg></choice> in denn<lb/>
+                    &#x017F;einigen thun wolte, &#x017F;o könden die <choice><orig>under</orig><reg resp="#MP">under-</reg></choice><lb/>
+                    thanen einander nichts <choice><orig>vor werffen</orig><reg resp="#MP">vorwerffen</reg></choice>, heüde<lb/>
+                    kam&#x0305; <choice><orig>ie mand</orig><reg resp="#MP">iemand</reg></choice> und &#x017F;agte mir daß ein <choice><orig>halb</orig><reg resp="#MP">halb-</reg></choice><lb/>
+                    <pb facs="PK13_3_0003.tif" n="4ar"/>
+                    <fw type="folNum" place="top-right" hand="#archivist_hand">4</fw>
+                    todt kind in denn <choice><orig>unß richen</orig><reg resp="#MP">unßrichen</reg></choice> &#x017F;e&#x00FF; <choice><orig>ge boren</orig><reg resp="#MP">geboren</reg></choice><lb/>
+                    worden welches eine <choice><orig>noht dau<unclear reason="illegible" cert="low" resp="#MP"> </unclear>ffe</orig><reg resp="#MP">nohtdauffe</reg></choice> be<unclear reason="illegible" cert="high" resp="#MP"> </unclear>kom&#x0305;e<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    von Einer frau, <del rend="strikethrough">über welches todt</del> i&#x017F;t auch gleich<lb/>
+                    <choice><orig>ver &#x017F;chiten</orig><reg resp="#MP">ver&#x017F;chiten</reg></choice>, und haben doch 2 tage freßere&#x00FF;<lb/>
+                    nach des kindes be<unclear reason="illegible" cert="high" resp="#MP"> </unclear>greb<unclear reason="illegible" cert="high" resp="#MP"> </unclear>nuß <choice><orig>ge halten</orig><reg resp="#MP">gehalten</reg></choice> &#x017F;tatt<lb/>
+                    der kintauft, die &#x017F;chulen will ich auch vi&#x017F;itir<unclear reason="border" cert="high" resp="#MP">en</unclear><lb/>
+                    laßen, <subst><del rend="overwritten">un</del><add place="across">w</add></subst>ie &#x017F;ie <choice><orig>be &#x017F;telt</orig><reg resp="#MP">be&#x017F;telt</reg></choice> und <choice><orig>an be fehlen</orig><reg resp="#MP">anbefehlen</reg></choice>, d<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>ß<lb/>
+                    &#x017F;ie die kinders &#x017F;om&#x0305;ers &#x017F;ollen eine &#x017F;tunde hinein<lb/>
+                    gehen laßen,<note type="editorial" resp="#MP">Vgl. hierzu die 1716 verabschiedete <ref target="http://archive.thulb.uni-jena.de/hisbest/receive/HisBest_cbu_00032271">Sommerschulordnung</ref>.</note> es werden in etlichen tagen<lb/>
+                    die <choice><orig>&#x017F;teier <hi rend="latin">batente</hi></orig><reg resp="#MP">&#x017F;teier<hi rend="latin">batente</hi></reg></choice><note type="editorial" resp="#MP">Patent: landesherrlicher Brief, öffentliche Bekanntmachung, Urkunde. Vgl. <ref target="http://www.woerterbuchnetz.de/DWB?lemma=patent">Art. Patent</ref>, in: <bibl corresp="#goethe_woerterbuch">GWb</bibl> 13, 1501-1502. Die Ebersdorfer erließen ihre Steuerpatente zusammen mit der Lobensteiner Herrschaft.</note> <choice><orig>hir her</orig><reg resp="#MP">hirher</reg></choice> Zur <choice><orig>under &#x017F;chrift</orig><reg resp="#MP">under&#x017F;chrift</reg></choice><lb/>
+                    kom&#x0305;en d<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>ß wirde &#x017F;ich Zu lang <choice><orig>ver Zihen</orig><reg resp="#MP">verZihen</reg></choice><lb/>
+                    er&#x017F;t <rs type="place" ref="http://www.geonames.org/2953417/bad-koestritz.html" corresp="#koestritz" resp="#MP">hinunder</rs> Zu &#x017F;chicken, wenn es <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> <choice><orig>Zu</orig><reg resp="#MP">Zu-</reg></choice><lb/>
+                    friden &#x017F;ein, will ich es in <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> nahm&#x0305;en<lb/>
+                    <choice><orig>mit voll Zihen</orig><reg resp="#MP">mitvollZihen</reg></choice>, vorhin hab ich &#x017F;ie alle allein<lb/>
+                    <choice><orig>under &#x017F;chriben</orig><reg resp="#MP">under&#x017F;chriben</reg></choice>, es gehet an die <choice><orig>rider &#x017F;chafft</orig><reg resp="#MP">rider&#x017F;chafft</reg></choice><lb/>
+                    wegen deß &#x017F;chreibens oder batentes an die<lb/>
+                    <choice><orig>riter &#x017F;chafft</orig><reg resp="#MP">riter&#x017F;chafft</reg></choice>, <del rend="strikethrough">wird der am&#x0305;t</del> wegen meines<lb/>
+                    liben <hi rend="latin"><choice><abbr>&#x00B7;S&#x00B7;</abbr><expan resp="#MP">Seeligen</expan></choice></hi> <rs type="person" ref="http://d-nb.info/gnd/104138483" corresp="#heinrichx_ebersdorf" resp="#MP">herren</rs> todt wird der <rs type="person" ref="http://d-nb.info/gnd/126788715" corresp="#johann_alexander_zeller" resp="#MP"><choice><orig>am&#x0305;t mann</orig><reg resp="#MP">am&#x0305;tmann</reg></choice></rs> berichte<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    in der <choice><orig>haubt &#x017F;ache</orig><reg resp="#MP">haubt&#x017F;ache</reg></choice> mit <persName ref="http://d-nb.info/gnd/130080292" corresp="#georg_paul_klein_nicolai" resp="#MP"><choice><orig>klein nickolai</orig><reg resp="#MP">klein-nickolai</reg></choice></persName><note type="editorial" resp="#MP">Hierbei scheint es sich um die Anwerbung Georg Paul Klein-Nikolais nach Ebersdorf zu handeln. Dieser wurde 1712 Informator des minderjährigen Regenten Heinrich XXIX. und am 15. August 1715 schließlich Hofprediger in Ebersdorf. Vgl. <bibl corresp="#lobensteinisches_intelligenzblatt">Lobensteinisches Gemeinnütziges Intelligenzblatt</bibl>, 9. Stück (3. März 1792), S. 41.</note> wollen<lb/>
+                    <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> flei&#x017F;ich mit mir beden Zu gott der unß &#x017F;ein<choice><orig>&#x02F7;</orig><reg resp="#MP">en</reg></choice><lb/>
+                    willen Zeigen, und dann fördern möge, ich<lb/>
+                    werd ihm nuhn Zu <placeName ref="http://www.geonames.org/2911522/halle-saale.html" corresp="#halle_saale" resp="#MP">halle</placeName> &#x017F;prechen weil der <choice><orig>ge</orig><reg resp="#MP">ge-</reg></choice><lb/>
+                    <choice><orig>&#x017F;chlechts tag</orig><reg resp="#MP">&#x017F;chlechtstag</reg></choice><note type="editorial" resp="#MP">Der Geschlechtstag, die regelmäßig staffindende Zusammenkunft aller reußischen Agnaten ab dem 18. Lebensjahr, fand im Jahr 1712 in Gera statt. Zum Versuch der Einflussnahme Erdmuthe Benignas auf diesem vgl. auch ihren <ref target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6">Brief vom 17. November und Dezember 1712 an Heinrich XXIV. Reuß-Köstritz</ref>.</note> noch nicht wird, ich hab schon auf<lb/>
+                    wohnung und <choice><orig>aller le&#x00FF;</orig><reg resp="#MP">allerle&#x00FF;</reg></choice> <choice><orig>ge dacht</orig><reg resp="#MP">gedacht</reg></choice> <choice><orig>wo von</orig><reg resp="#MP">wovon</reg></choice> mindlich<lb/>
+                    mehr, wegen <persName corresp="#leidemitz1" resp="#MP"><choice><orig>leide mit</orig><reg resp="#MP">leidemit</reg></choice></persName> hab ich auch weidere<lb/>
+                    <choice><orig>über legung</orig><reg resp="#MP">überlegung</reg></choice> <choice><orig>ge macht</orig><reg resp="#MP">gemacht</reg></choice>, und finde ich denn <placeName ref="http://www.geonames.org/11186107/hochofen.html" corresp="#hoher_ofen" resp="#MP"><choice><orig>hohen</orig><reg resp="#MP">hohen-</reg></choice><lb/>
+                        offen</placeName><choice><orig> din&#x017F;t</orig><reg resp="#MP">-din&#x017F;t</reg></choice> nicht vor ih<choice><unclear reason="illegible" cert="high" resp="#MP">m</unclear><unclear reason="illegible" cert="low" resp="#MP">ne</unclear></choice>, au&#x017F; der <choice><orig>ur &#x017F;ach</orig><reg resp="#MP">ur&#x017F;ach</reg></choice> ich will<lb/>
+                    ihm&#x0305; loß &#x017F;ein durch <choice><orig>ver kauff</orig><reg resp="#MP">verkauff</reg></choice>, oder bacht, und dan<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    &#x017F;tind &#x017F;o ein mann übel, <choice><orig>in dem&#x0305;</orig><reg resp="#MP">indem&#x0305;</reg></choice> wir keinen<lb/>
+                    <pb facs="PK13_3_0004.tif" n="4av"/>
+                    <note rend="vertical" place="margin-left">bachter einen diner <choice><orig>auf dringen</orig><reg resp="#MP">aufdringen</reg></choice> könden, und<lb/>
+                        ihm aufs <choice><orig>un ge wiße</orig><reg resp="#MP">ungewiße</reg></choice> <choice><orig>herauß Zu &#x017F;prengen</orig><reg resp="#MP">heraußZu&#x017F;prengen</reg></choice> drige ich<lb/>
+                        <choice><orig>be dencken</orig><reg resp="#MP">bedencken</reg></choice>, wolte wohl daß mann waß anders vor<lb/>
+                        ihm außinen könde, <seg type="closer"><seg type="salute">meine libe <persName corresp="#marie_eleonore_koestritz" resp="#MP">lorel</persName> kiß ich und<lb/>
+                            bleibe ihre im&#x0305;er treüe aufrichtiche</seg> <seg type="signed"><persName ref="http://d-nb.info/gnd/139081127" corresp="#erdmuthe_benigna_ebersdorf" resp="#MP"><choice><orig>Erd muhte</orig><reg resp="#MP">Erdmuhte</reg></choice></persName></seg></seg></note><lb/>
+                </p>
+                <note rend="vertical" place="margin-right" type="postscript">
+                    <label rend="latin" xml:lang="lat"><abbr>ps</abbr></label><lb/>
+                    nehm&#x0305;en dann <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> etwann noch <persName corresp="#margang1" resp="#MP"><hi rend="latin">margang</hi></persName> Zu ihren<lb/>
+                    kindern an <persName corresp="#dioletz1" resp="#MP">dioletz</persName> &#x017F;telle, &#x017F;ie &#x017F;ind wohl be&#x00FF;de von<lb/>
+                        hertzen from&#x0305;, noch eines felt mir ein, wenn nuhn<lb/>
+                    der <choice><orig>ge &#x017F;chlechts tag</orig><reg resp="#MP">ge&#x017F;chlechtstag</reg></choice> wird, gehen <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> vor &#x017F;ich oder in<lb/>
+                    der be&#x00FF;den <choice><orig>vor munt<unclear reason="illegible" cert="high" resp="#MP"> </unclear>&#x017F;chaft</orig><reg resp="#MP">vormunt&#x017F;chaft</reg></choice> nach <placeName ref="http://www.geonames.org/6549747/gera.html" corresp="#gera" resp="#MP">gere</placeName>, &#x017F;o mi&#x017F;ten wir auch<lb/>
+                    be&#x00FF;de die <choice><orig>un ko&#x017F;ten</orig><reg resp="#MP">unko&#x017F;ten</reg></choice> deß haußes tr<choice><unclear reason="illegible" cert="high" resp="#MP">a</unclear><unclear reason="illegible" cert="low" resp="#MP">o</unclear></choice>gen &#x017F;o möchte<lb/>
+                    ich gerne wißen wie hoch <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> ihr hauß kön&#x0305;en<metamark function="connect" rend="&#x0058;" target="#X1_PK13_3_5"/>
+                    </note>
+            </div>
+            <div type="envelope">
+                <figure type="seal" place="top" xml:id="siegel_teil2" prev="#siegel_teil1"/>
+                <p hand="#scribe_hand">
+                    <address xml:lang="fre" rend="latin">
+                        <addrLine>
+                            <hi rend="align-center">AMonsieur</hi><lb/>
+                            <space dim="horizontal" unit="lines" quantity="1"/>
+                            Monsieur Le Comte <persName ref="http://d-nb.info/gnd/130132365" corresp="#heinrichxxiv_koestritz" resp="#MP">Henry<lb/>
+                            XXIV Reus&#x017F;</persName>, Comte et Seigneur<lb/>
+                            de <placeName ref="http://www.geonames.org/2853292/plauen.html" corresp="#plauen" resp="#MP">Plauen</placeName> <choice><abbr>p</abbr><expan resp="#MP">perge</expan></choice><note type="editorial" resp="#MP">Perge: und so weiter.</note>
+                        </addrLine><lb/>
+                        <addrLine><hi rend="align-center">&#x00E0;</hi><lb/>
+                            <hi rend="align-right"><placeName ref="http://www.geonames.org/2953417/bad-koestritz.html" corresp="#koestritz" resp="#MP">Kösteriz</placeName></hi></addrLine>
+                    </address><lb/>
+                </p>
+                <figure type="seal" place="bottom" xml:id="siegel_teil1" next="#siegel_teil2"/>
+            </div>
+            <pb facs="PK13_3_0005.tif" n="3br"/>
+            <div type="letter" n="2">
+                <fw type="folNum" place="top-right" hand="#archivist_hand">3</fw>
+                <p><metamark function="connect" rend="&#x0058;" xml:id="X1_PK13_3_5"/><lb/>
+                    ich wolte <persName corresp="#hilsemann1" resp="#MP"><choice><orig>hilße man<unclear reason="illegible" cert="high" resp="#MP">n</unclear></orig><reg resp="#MP">hilßemann</reg></choice></persName> <choice><orig>auf &#x017F;age&#x02F7;</orig><reg resp="#MP">auf&#x017F;agen</reg></choice><lb/>
+                    laßen; dann die <persName corresp="#die_hentze" resp="#MP">hentze</persName> will<lb/>
+                    mich mit &#x017F;ack und back einehm&#x0305;e<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    wenn di&#x017F;es nuhn <choice><orig>wohl feiler</orig><reg resp="#MP">wohlfeiler</reg></choice><lb/>
+                    wöre al&#x017F; <choice><abbr>Erl</abbr><expan resp="#MP">Erlaucht</expan></choice> ihres &#x017F;o könde<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    &#x017F;ie unßeres nehm&#x0305;en wir habe<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    deß iahres 25 <choice><abbr>fl</abbr><expan resp="#MP">Florentiner Gulden</expan></choice> oder <choice><abbr>thl</abbr><expan resp="#MP">Taler</expan></choice> <choice><orig>ge</orig><reg resp="#MP">ge-</reg></choice><lb/>
+                    geben haben 2 &#x017F;tube<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice> 2 kam&#x0305;er<choice><orig>&#x02F7;</orig><reg resp="#MP">n</reg></choice><lb/>
+                    <choice><orig>ge habt</orig><reg resp="#MP">gehabt</reg></choice></p><lb/>
+                    <pb facs="PK13_3_0006.tif" n="3bv"/>
+            </div>
+        </body>
+    </text>
+</TEI>
