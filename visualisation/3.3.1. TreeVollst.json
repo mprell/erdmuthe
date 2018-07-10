@@ -1,0 +1,315 @@
+[{
+        "id": "0",
+        "label": "Die Vögte und Herren Reußen von Plauen",
+        "href": "",
+        "shape": "box",
+        "level": "0",
+        "linksTo": [1,2,3]
+    },
+    {
+        "id": "1",
+        "label": "Die Ältere Linie Reuß",
+        "href": "",
+        "shape": "box",
+        "level": "1",
+        "linksTo": [4]
+    },
+    {
+        "id": "2",
+        "label": "Die Mittlere Linie Reuß (stirbt 1616 aus)",
+        "href": "",
+        "shape": "box",
+        "level": "1",
+        "linksTo": []
+    },
+    {
+        "id": "3",
+        "label": "Die Jüngere Linie Reuß",
+        "href": "",
+        "shape": "box",
+        "level": "1",
+        "linksTo": [5]
+    },
+    {
+        "id": "4",
+        "label": "Haus Untergreiz-Burgk",
+        "href": "",
+        "shape": "box",
+        "level": "2",
+        "linksTo": [6,7]
+    },
+    {
+        "id": "5",
+        "label": "Haus Gera",
+        "href": "",
+        "shape": "box",
+        "level": "2",
+        "linksTo": [8,9,26]
+    },
+    {
+        "id": "6",
+        "label": "Haus Obergreiz",
+        "href": "",
+        "shape": "box",
+        "level": "3",
+        "linksTo": [17]
+    },
+    {
+        "id": "7",
+        "label": "Haus Untergreiz",
+        "href": "",
+        "shape": "box",
+        "level": "3",
+        "linksTo": [10,11,19]
+    },
+    {
+        "id": "8",
+        "label": "Haus Lobenstein-Ebersdorf",
+        "href": "",
+        "shape": "box",
+        "level": "3",
+        "linksTo": [12,13,14]
+    },
+    {
+        "id": "9",
+        "label": "Haus Schleiz",
+        "href": "",
+        "shape": "box",
+        "level": "3",
+        "linksTo": [15,28]
+    },
+    {
+        "id": "10",
+        "label": "Haus Burgk",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [18]
+    },
+    {
+        "id": "11",
+        "label": "Haus Rothenthal",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [20]
+    },
+    {
+        "id": "12",
+        "label": "Haus Ebersdorf",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [21]
+    },
+    {
+        "id": "13",
+        "label": "Haus Lobenstein",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [16,23]
+    },
+    {
+        "id": "14",
+        "label": "Haus Hirschberg",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [25]
+    },
+    {
+        "id": "15",
+        "label": "Apanage Köstritz",
+        "href": "",
+        "shape": "box",
+        "level": "4",
+        "linksTo": [27]
+    },
+    {
+        "id": "16",
+        "label": "Haus Lobenstein-Selbitz",
+        "href": "",
+        "shape": "box",
+        "level": "5",
+        "linksTo": [24]
+    },
+    {
+        "id": "17",
+        "label": "Heinrich VI. (1649-1697)",
+        "href": "http://d-nb.info/gnd/104254130",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [29]
+    },
+    {
+        "id": "18",
+        "label": "Heinrich II. (1634-1697)",
+        "href": "http://d-nb.info/gnd/130593036",
+        "shape": "box",
+        "level": "6",
+        "linksTo": []
+    },
+    {
+        "id": "19",
+        "label": "Heinrich XIII. (1672-1733)",
+        "href": "http://d-nb.info/gnd/101510195",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [30]
+    },
+    {
+        "id": "20",
+        "label": "Heinrich V. (1645-1698)",
+        "href": "http://d-nb.info/gnd/130668680",
+        "shape": "box",
+        "level": "6",
+        "linksTo": []
+    },
+    {
+        "id": "21",
+        "label": "Heinrich X. (1662-1711)",
+        "href": "http://d-nb.info/gnd/104138483",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [22,31]
+    },
+    {
+        "id": "22",
+        "label": "Erdmuthe Benigna (1670-1732)",
+        "href": "http://d-nb.info/gnd/139081127",
+        "shape": "box",
+        "color": {"border":"red"},
+        "level": "6",
+        "linksTo": [31]
+    },
+    {
+        "id": "23",
+        "label": "Heinrich III. (1648-1710)",
+        "href": "http://d-nb.info/gnd/104297980",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [32]
+    },
+    {
+        "id": "24",
+        "label": "Heinrich XXVI. (1681-1730)",
+        "href": "",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [33]
+    },
+    {
+        "id": "25",
+        "label": "Heinrich VIII. (1652-1711)",
+        "href": "http://d-nb.info/gnd/104254297",
+        "shape": "box",
+        "level": "6",
+        "linksTo": []
+    },
+    {
+        "id": "26",
+        "label": "Heinrich XVIII. (1677-1735)",
+        "href": "http://d-nb.info/gnd/104254203",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [34]
+    },
+    {
+        "id": "27",
+        "label": "Heinrich XXIV. (1681-1748)",
+        "href": "http://d-nb.info/gnd/130132365",
+        "shape": "box",
+        "color": {"border":"red"},
+        "level": "6",
+        "linksTo": [35]
+    },
+    {
+        "id": "28",
+        "label": "Heinrich XI. (1669-1726)",
+        "href": "http://d-nb.info/gnd/104254238",
+        "shape": "box",
+        "level": "6",
+        "linksTo": [36]
+    },
+    {
+        "id": "29",
+        "label": "Heinrich II. (1696-1722)",
+        "href": "http://d-nb.info/gnd/104254149",
+        "shape": "box",
+        "level": "7",
+        "linksTo": [37]
+    },
+    {
+        "id": "30",
+        "label": "Heinrich III. (1701-1768)",
+        "href": "http://d-nb.info/gnd/1125917970",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "31",
+        "label": "Heinrich XXIX. (1699-1747)",
+        "href": "http://d-nb.info/gnd/104254335",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "32",
+        "label": "Heinrich XV. (1674-1739)",
+        "href": "http://d-nb.info/gnd/104254300",
+        "shape": "box",
+        "level": "7",
+        "linksTo": [38]
+    },
+    {
+        "id": "33",
+        "label": "Heinrich XXV. (1724-1801)",
+        "href": "",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "34",
+        "label": "Heinrich XXV. (1681-1748)",
+        "href": "http://d-nb.info/gnd/130132365",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "35",
+        "label": "Älterer, mittlerer u. jüngerer Ast",
+        "href": "",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "36",
+        "label": "Heinrich XII. (1716-1784)",
+        "href": "http://d-nb.info/gnd/104254254",
+        "shape": "box",
+        "level": "7",
+        "linksTo": []
+    },
+    {
+        "id": "37",
+        "label": "Heinrich XI. (1722-1800)",
+        "href": "http://d-nb.info/gnd/129906689",
+        "shape": "box",
+        "level": "8",
+        "linksTo": []
+    },
+    {
+        "id": "38",
+        "label": "Heinrich II. (1702-1782)",
+        "href": "http://d-nb.info/gnd/104254319",
+        "shape": "box",
+        "level": "8",
+        "linksTo": []
+    }
+]

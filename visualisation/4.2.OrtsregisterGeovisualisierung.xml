@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsregister</title>
+                <author>
+                    <persName>Martin Prell</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="project"
+                        >Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)</orgName>
+                    <orgName role="hostingInstitution"
+                        >Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+                    <orgName role="hostingInstitution">Friedrich-Schiller-Universität Jena</orgName>
+                </publisher>
+                <pubPlace>Jena</pubPlace>
+                <date type="publication">2017-02-28T23:59:59Z</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"
+                        >
+                        Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>Born digital</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Das Register erfasst die Geografika innerhalb der Briefe Heinrichs XXIV. an Erdmuthe Benigna in alphabetischer Reihenfolge. Die Verweise auf die Briefe sind nach Jahreszahl geordnet. Die in den editorischen Kommentaren auftretenden Geografika sind nicht indexiert.</p>
+            <lb/>
+
+            <p>
+                <listPlace>
+                    <place xml:id="alsleben">
+                        <placeName>Alsleben</placeName>
+                        <note type="references">
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="altengesees">
+                        <placeName ref="http://www.geonames.org/2957683/altengesees.html"
+                            >Altengesses</placeName>
+                        <location>
+                            <geo>50.54845, 11.54025</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1054628661"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="bayreuth">
+                        <placeName ref="http://www.geonames.org/2951825/bayreuth.html"
+                            >Bayreuth</placeName>
+                        <location>
+                            <geo>49.94782, 11.57893</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4005056-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="bamberg">
+                        <placeName ref="http://www.geonames.org/2952984/bamberg.html"
+                            >Bamberg</placeName>
+                        <location>
+                            <geo>49.89873, 10.90067</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4004391-5"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fd95c296-929e-48d1-99c0-43d7575c44e66"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juli/August 1714)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="bibra">
+                        <placeName ref="http://www.geonames.org/2953542/bad-bibra.html"
+                            >Bibra</placeName>
+                        <location>
+                            <geo>51.20796, 11.58517</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/7623026-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="burgk">
+                        <placeName ref="http://www.geonames.org/2941226/burgk.html"
+                            >Burgk</placeName>
+                        <location>
+                            <geo>50.55603, 11.71803</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4237241-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="coburg">
+                        <placeName ref="http://www.geonames.org/2939951/coburg.html"
+                            >Coburg</placeName>
+                        <location>
+                            <geo>50.25937, 10.96384</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4010325-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-c98bc8d4-78bb-4b61-85d3-a5cd22e42e198"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. Oktober 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                        </note>
+                    </place>
+
+                    <!--<place xml:id="crispendorf"><placeName ref="http://www.geonames.org/2939742/crispendorf.html">Crispendorf/Christendorf</placeName>
+                    <location>
+                        <geo>50.6, 11.73333</geo>
+                    </location>
+                    <note type="references"><ref target="tei-transcript.xml"></ref></note>
+                </place>-->
+
+                    <place xml:id="dittersbach_schlesien">
+                        <placeName ref="http://www.geonames.org/3099822/dzietrzychowice.html"
+                            resp="#MP">Dittersbach (Schlesien)</placeName>
+                        <location>
+                            <geo>51.66372, 15.35416</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/7758856-3"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4d6566d7-141a-4451-bc3c-740483a39a4a3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-64b06e29-deb6-4f76-b1bc-1595c84a7c549"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f6f1abb8-0760-4c06-b5ca-869c3b6534501"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="dittmars_hammer">
+                        <placeName resp="#MP">Dittmars Hammerwerk</placeName>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="ebersdorf">
+                        <placeName ref="http://www.geonames.org/2933921/ebersdorf.html"
+                            >Ebersdorf</placeName>
+                        <location>
+                            <geo>50.48461, 11.66757</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4284653-5"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9a691c0b-0b04-4dcb-9f4a-8eefc6fd04236"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-76b747dc-959b-41ab-85ee-4de72143e4ce9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6595fc4d-acbf-417f-b333-2cf816bbb0db9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (17. Mai 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4d6566d7-141a-4451-bc3c-740483a39a4a3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bff0273d-46da-4192-9493-9fc34579a0e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713/1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f6f1abb8-0760-4c06-b5ca-869c3b6534501"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b2d8fbdd-52d8-4675-981d-2188761c21609"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juli 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d2a65ea-4c8e-4512-8b09-0de332fbc4359"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-c98bc8d4-78bb-4b61-85d3-a5cd22e42e198"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. Oktober 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6c65c368-cb1a-4ce3-9fd3-6bbe199394b42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Dezember 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b0215828-5d0f-4cab-8ade-f4c48136557d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 29. Juni o.J. (1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-85672ae6-e513-47fc-ade0-7566a241c2a65"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 22. August o.J. (1716)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7c55edf5-7d47-4b6f-b497-0fe857eb17634"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. August 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0284a1c4-0b61-4b69-94f9-e3d54330e2e52"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 9. November 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-826c643a-8886-4f18-a81b-98d35c473bcd1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Mai 1718</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7fca7312-0e1f-46b9-90bc-2ff492e8dc6f1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 12. April 1722</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-82bd934f-4237-4b98-8aaa-6fb1235447cb5"
+                                    >Erdmuthe Benigna und Heinrich XXIX. an Heinrich XXIV., Ebersdorf, 8. September 1722</ref>
+                        </note>
+                    </place>
+
+                    <!--<place xml:id="ems"><placeName ref="http://www.geonames.org/2953507/bad-ems.html">Ems</placeName>
+                    <location>
+                        <geo>50.33544, 7.71369</geo>
+                    </location>
+                </place>-->
+
+                    <place xml:id="darmstadt">
+                        <placeName ref="http://www.geonames.org/2938913/darmstadt.html"
+                            >Darmstadt</placeName>
+                        <location>
+                            <geo>49.87167, 8.65027</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4011077-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="dresden">
+                        <placeName ref="http://www.geonames.org/2935022/dresden.html"
+                            >Dresden</placeName>
+                        <location>
+                            <geo>51.05089, 13.73832</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4012995-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="frankenwald">
+                        <placeName ref="http://www.geonames.org/2925544/frankenwald.html"
+                            >Frankenwald</placeName>
+                        <location>
+                            <geo>50.30595, 11.57675</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4018117-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="frankfurt_main">
+                        <placeName ref="http://www.geonames.org/2925533/frankfurt-am-main.html"
+                            >Frankfurt a.M.</placeName>
+                        <location>
+                            <geo>50.11552, 8.68417</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4018118-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="friesau">
+                        <placeName ref="http://www.geonames.org/2924403/friesau.html"
+                            >Friesau</placeName>
+                        <location>
+                            <geo>50.49651, 11.64101</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4823254-3"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="gahma">
+                        <placeName ref="http://www.geonames.org/2923347/gahma.html"
+                            >Gahma</placeName>
+                        <location>
+                            <geo>50.5231, 11.53763</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4781221-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4d6566d7-141a-4451-bc3c-740483a39a4a3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-c98bc8d4-78bb-4b61-85d3-a5cd22e42e198"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. Oktober 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="gera">
+                        <placeName ref="http://www.geonames.org/6549747/gera.html">Gera</placeName>
+                        <location>
+                            <geo>50.87818, 12.08242</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4020295-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9edd6d7d-3e39-4147-9119-6a9f79e9b0f99"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f6f1abb8-0760-4c06-b5ca-869c3b6534501"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d2a65ea-4c8e-4512-8b09-0de332fbc4359"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober 1717</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="gießen">
+                        <placeName ref="http://www.geonames.org/2920512/giessen.html"
+                            >Gießen</placeName>
+                        <location>
+                            <geo>50.58727, 8.67554</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4020989-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="greiz">
+                        <placeName ref="http://www.geonames.org/2917737/greiz.html"
+                            >Greiz</placeName>
+                        <location>
+                            <geo>50.65778, 12.19918</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4021972-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fd95c296-929e-48d1-99c0-43d7575c44e66"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juli/August 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-5fe8cd30-c333-4bf4-ab95-8e7caae778a64"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="grossaga">
+                        <placeName ref="http://www.geonames.org/2917065/grossaga.html"
+                            >Großaga</placeName>
+                        <location>
+                            <geo>50.96637, 12.08766</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1054362890"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="grumbacher_glashütte">
+                        <placeName ref="http://www.geonames.org/2914542/grumbach.html"
+                            >Grummbacher Glashütte</placeName>
+                        <location>
+                            <geo>50.42997, 11.49899</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="halle_saale">
+                        <placeName ref="http://www.geonames.org/2911522/halle-saale.html"
+                            >Halle/Saale</placeName>
+                        <location>
+                            <geo>51.5, 12</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4023025-9"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bff0273d-46da-4192-9493-9fc34579a0e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713/1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e07e3740-422a-40e7-9bba-211a708027ba6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d545f927-257b-463a-bdbd-2861d114cf389"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6c65c368-cb1a-4ce3-9fd3-6bbe199394b42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Dezember 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e20c9000-bb1c-465b-8dfd-98d77a5c81a67"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9a691c0b-0b04-4dcb-9f4a-8eefc6fd04236"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-76b747dc-959b-41ab-85ee-4de72143e4ce9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="harra">
+                        <placeName ref="http://www.geonames.org/2910342/harra.html"
+                            >Harra</placeName>
+                        <location>
+                            <geo>50.41667, 11.68333</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/7580258-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="heinersdorf">
+                        <placeName ref="http://www.geonames.org/2907304/heinersdorf.html"
+                            >Heinersdorf</placeName>
+                        <location>
+                            <geo>50.47274, 11.57588</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4796069-3"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b0215828-5d0f-4cab-8ade-f4c48136557d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 29. Juni o.J. (1715)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="hirschberg">
+                        <placeName ref="http://www.geonames.org/2903720/hirschberg.html"
+                            >Hirschberg</placeName>
+                        <location>
+                            <geo>50.40538, 11.81829</geo>
+                            <note type="references">
+                                <ref target="http://d-nb.info/gnd/4565852-3"/>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-389ea54b-e686-4e3f-bcbf-377aedce4b8a9"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Hirschberg, 6. November 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7c55edf5-7d47-4b6f-b497-0fe857eb17634"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. August 1716</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fdc0319d-083f-45cb-a2e8-c57f0940b3541"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (September/Oktober 1717)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-eab52c85-f599-413f-996d-275741df99369"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-64b06e29-deb6-4f76-b1bc-1595c84a7c549"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1713)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b2d8fbdd-52d8-4675-981d-2188761c21609"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juli 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9cacf818-433b-49d6-9876-11fabef526b57"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-c98bc8d4-78bb-4b61-85d3-a5cd22e42e198"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. Oktober 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6c65c368-cb1a-4ce3-9fd3-6bbe199394b42"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Dezember 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8ee37105-1401-4f74-99f8-c0003e51d8a28"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1716)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9a691c0b-0b04-4dcb-9f4a-8eefc6fd04236"
+                                        >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-85672ae6-e513-47fc-ade0-7566a241c2a65"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 22. August o.J. (1716)</ref>
+                            </note>
+                        </location>
+                    </place>
+
+                    <place xml:id="schloss_hirschberg">
+                        <placeName ref="http://www.geonames.org/11258613/schloss-hirschberg.html"
+                            >Hirschberger Schloss</placeName>
+                        <location>
+                            <geo>50.40439, 11.82247</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8ee37105-1401-4f74-99f8-c0003e51d8a28"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1716)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="hirschbergische_hölzer">
+                        <placeName>Hirschbergische Hölzer</placeName>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="hohenleuben">
+                        <placeName ref="http://www.geonames.org/2901634/hohenleuben.html"
+                            >Hohenleuben</placeName>
+                        <location>
+                            <geo>50.71128, 12.05427</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4095512-6"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9edd6d7d-3e39-4147-9119-6a9f79e9b0f99"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="hoher_ofen">
+                        <placeName ref="http://www.geonames.org/11186107/hochofen.html"
+                            >Hoher Ofen</placeName>
+                        <location>
+                            <geo>50.45215, 11.53768</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7fca7312-0e1f-46b9-90bc-2ff492e8dc6f1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 12. April 1722</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-c98bc8d4-78bb-4b61-85d3-a5cd22e42e198"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. Oktober 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="jena">
+                        <placeName ref="http://www.geonames.org/2895044/jena.html">Jena</placeName>
+                        <location>
+                            <geo>50.92878, 11.5899</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4028557-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="kloster_saalburg">
+                        <placeName ref="http://www.geonames.org/11281215/kloster.html"
+                            >Kloster Saalburg</placeName>
+                        <location>
+                            <geo>50.5147, 11.7311</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1054436886"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b0215828-5d0f-4cab-8ade-f4c48136557d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 29. Juni o.J. (1715)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="koestritz">
+                        <placeName ref="http://www.geonames.org/2953417/bad-koestritz.html"
+                            >Köstritz</placeName>
+                        <location>
+                            <geo>50.93032, 12.01005</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4320217-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7c55edf5-7d47-4b6f-b497-0fe857eb17634"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. August 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fdc0319d-083f-45cb-a2e8-c57f0940b3541"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (September/Oktober 1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7fca7312-0e1f-46b9-90bc-2ff492e8dc6f1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 12. April 1722</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0284a1c4-0b61-4b69-94f9-e3d54330e2e52"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 9. November 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-826c643a-8886-4f18-a81b-98d35c473bcd1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Mai 1718</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6bfe7038-4ea6-47f3-b829-b0ca494537b43"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-eab52c85-f599-413f-996d-275741df99369"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e07e3740-422a-40e7-9bba-211a708027ba6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-5fe8cd30-c333-4bf4-ab95-8e7caae778a64"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d545f927-257b-463a-bdbd-2861d114cf389"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d2a65ea-4c8e-4512-8b09-0de332fbc4359"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e20c9000-bb1c-465b-8dfd-98d77a5c81a67"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1663e26e-2492-412b-95b7-47d5c975726b0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. Juli 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8ee37105-1401-4f74-99f8-c0003e51d8a28"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1716)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-caf8bc3d-096b-478c-98dd-7ef841b4c79f0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-76b747dc-959b-41ab-85ee-4de72143e4ce9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f7177322-7eed-45a1-92cf-5aba558e6faf1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1722)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="kranichfeld">
+                        <placeName ref="http://www.geonames.org/2884761/kranichfeld.html"
+                            >Kranichfeld</placeName>
+                        <location>
+                            <geo>50.85446, 11.20057</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4096992-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="laubach">
+                        <placeName ref="http://www.geonames.org/2880308/laubach.html"
+                            >Laubach</placeName>
+                        <location>
+                            <geo>50.54196, 8.99034</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4034691-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fd95c296-929e-48d1-99c0-43d7575c44e66"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juli/August 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="leipzig">
+                        <placeName ref="http://www.geonames.org/2879139/leipzig.html"
+                            >Leipzig</placeName>
+                        <location>
+                            <geo>51.33962, 12.37129</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4035206-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="lemnitzhammer">
+                        <placeName ref="http://www.geonames.org/11258233/lemnitzhammer.html"
+                            >Lemnitzhammer</placeName>
+                        <location>
+                            <geo>50.43051, 11.67442</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1037484479"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="leutenberg">
+                        <placeName ref="http://www.geonames.org/2878308/leutenberg.html"
+                            >Leutenberg</placeName>
+                        <location>
+                            <geo>50.56354, 11.45619</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4487573-3"/><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9cacf818-433b-49d6-9876-11fabef526b57"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="lobenstein">
+                        <placeName ref="http://www.geonames.org/2876721/bad-lobenstein.html"
+                            >Lobenstein</placeName>
+                        <location>
+                            <geo>50.45223, 11.6393</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4036099-4"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-389ea54b-e686-4e3f-bcbf-377aedce4b8a9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Hirschberg, 6. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fdc0319d-083f-45cb-a2e8-c57f0940b3541"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (September/Oktober 1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-826c643a-8886-4f18-a81b-98d35c473bcd1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Mai 1718</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-eab52c85-f599-413f-996d-275741df99369"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4d6566d7-141a-4451-bc3c-740483a39a4a3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b0215828-5d0f-4cab-8ade-f4c48136557d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 29. Juni o.J. (1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b2d8fbdd-52d8-4675-981d-2188761c21609"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juli 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6595fc4d-acbf-417f-b333-2cf816bbb0db9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (17. Mai 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f7177322-7eed-45a1-92cf-5aba558e6faf1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1722)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="lothra">
+                        <placeName ref="http://www.geonames.org/2875773/lothra.html"
+                            >Lothra</placeName>
+                        <location>
+                            <geo>50.56832, 11.55844</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1054782075"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a7ae7d6d-2df4-435c-83dd-501db290bb164"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 10. August o.J. (1717)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="moedlareuth">
+                        <placeName ref="http://www.geonames.org/2870231/moedlareuth.html"
+                            >Mödlareuth</placeName>
+                        <location>
+                            <geo>50.41504, 11.88359</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4691334-8"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7c55edf5-7d47-4b6f-b497-0fe857eb17634"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. August 1716</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="obergreiz">
+                        <placeName ref="http://www.geonames.org/11049046/upper-castle-greiz.html"
+                            >Obergreiz</placeName>
+                        <location>
+                            <geo>50.65775, 12.19682</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bff0273d-46da-4192-9493-9fc34579a0e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713/1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6595fc4d-acbf-417f-b333-2cf816bbb0db9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (17. Mai 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b3e98f42-aaa2-49a7-8538-5633b984d4043"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Mai 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="plauen">
+                        <placeName ref="http://www.geonames.org/2853292/plauen.html"
+                            >Plauen</placeName>
+                        <location>
+                            <geo>50.4973, 12.13782</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4046334-5"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-3789e43e-dfc9-421e-9105-8a5b9102722e3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Februar 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0284a1c4-0b61-4b69-94f9-e3d54330e2e52"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 9. November 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-826c643a-8886-4f18-a81b-98d35c473bcd1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Mai 1718</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-eab52c85-f599-413f-996d-275741df99369"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Oktober u. Dezember 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4d6566d7-141a-4451-bc3c-740483a39a4a3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e07e3740-422a-40e7-9bba-211a708027ba6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bcd03b44-0e7b-4971-89fa-c8717ce22a3a6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 11. Dezember o.J. (1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-5fe8cd30-c333-4bf4-ab95-8e7caae778a64"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f6f1abb8-0760-4c06-b5ca-869c3b6534501"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-64b06e29-deb6-4f76-b1bc-1595c84a7c549"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b2d8fbdd-52d8-4675-981d-2188761c21609"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juli 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d545f927-257b-463a-bdbd-2861d114cf389"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e20c9000-bb1c-465b-8dfd-98d77a5c81a67"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8ee37105-1401-4f74-99f8-c0003e51d8a28"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1716)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-332f67f3-c1d4-4747-a971-89dfcb9eab1d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (zw. Januar u. März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-caf8bc3d-096b-478c-98dd-7ef841b4c79f0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-76b747dc-959b-41ab-85ee-4de72143e4ce9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f7177322-7eed-45a1-92cf-5aba558e6faf1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1722)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="poellwitz">
+                        <placeName ref="http://www.geonames.org/2852824/poellwitz.html"
+                            >Pöllwitz</placeName>
+                        <location>
+                            <geo>50.62381, 12.03802</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4819712-9"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="pottiga">
+                        <placeName ref="http://www.geonames.org/2852428/pottiga.html"
+                            >Pottiga</placeName>
+                        <location>
+                            <geo>50.41459, 11.74052</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/107591471X"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="prag">
+                        <placeName ref="http://www.geonames.org/3067696/prague.html"
+                            >Prag</placeName>
+                        <location>
+                            <geo>50.08804, 14.42076</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4076310-9"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-64b06e29-deb6-4f76-b1bc-1595c84a7c549"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8ee37105-1401-4f74-99f8-c0003e51d8a28"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (August 1716)</ref>
+                        </note>
+                    </place>
+
+                    <!--<place xml:id="promnitz"><placeName ref="http://www.geonames.org/2851898/promnitz.html">Promnitz</placeName>
+                    <location>
+                        <geo>51.3171, 13.32195</geo>
+                    </location>
+                </place>-->
+
+                    <!--<place xml:id="roermond"><placeName ref="http://www.geonames.org/2748000/roermond.html" resp="#MP">Roermond</placeName>
+                    <location>
+                        <geo>51.19417, 5.9875</geo>
+                    </location>
+                    <note type="references"><ref target="tei-transcript.xml">PK16_50</ref></note>
+                </place>-->
+
+                    <place xml:id="rothenacker">
+                        <placeName ref="http://www.geonames.org/2844154/rothenacker.html"
+                            >Rothenacker</placeName>
+                        <location>
+                            <geo>50.45942, 11.9068</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4729376-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6c65c368-cb1a-4ce3-9fd3-6bbe199394b42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Dezember 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="rosenberg">
+                        <placeName ref="http://www.geonames.org/3066663/rozmberk-nad-vltavou.html"
+                            >Rosenberg</placeName>
+                        <location>
+                            <geo>48.65425, 14.36516</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4196045-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="rudolstadt">
+                        <placeName ref="http://www.geonames.org/2843355/rudolstadt.html"
+                            >Rudolstadt</placeName>
+                        <location>
+                            <geo>50.72043, 11.34046</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4105066-6"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6.xml"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="ruppersdorf">
+                        <placeName ref="http://www.geonames.org/2842988/ruppersdorf.html"
+                            >Ruppersdorf</placeName>
+                        <location>
+                            <geo>50.5107, 11.57618</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/7732327-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="saalburg">
+                        <placeName ref="http://www.geonames.org/2842706/saalburg.html"
+                            >Saalburg</placeName>
+                        <location>
+                            <geo>50.50241, 11.73176</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4228421-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d2a65ea-4c8e-4512-8b09-0de332fbc4359"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1714)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="saalwald">
+                        <placeName ref="http://www.geonames.org/11288397/saalwald.html"
+                            >Saalwald</placeName>
+                        <location>
+                            <geo>50.43728, 11.714</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="schleiz">
+                        <placeName ref="http://www.geonames.org/2838673/schleiz.html"
+                            >Schleiz</placeName>
+                        <location>
+                            <geo>50.57866, 11.81024</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4325125-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b523a1e5-30de-4acf-b7cf-04964db472850"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. Juni 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a87057ac-0ce2-4465-b22f-9225e76766f89"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 31. Oktober 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1930c036-617f-4da2-9b66-274b9fc481e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-7c55edf5-7d47-4b6f-b497-0fe857eb17634"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. August 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-826c643a-8886-4f18-a81b-98d35c473bcd1"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 23. Mai 1718</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-a293eb24-cef7-41d3-b30c-4fda02c8d72e0"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 18. u. 20. März o.J. (1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bff0273d-46da-4192-9493-9fc34579a0e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713/1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e07e3740-422a-40e7-9bba-211a708027ba6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0bf56989-1c7a-480f-95a8-84413428059c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (März 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-35c6148e-3d42-4b26-a4a0-0bb8da46018d6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Gera, 17. November u. Ebersdorf, Dezember 1712</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f6f1abb8-0760-4c06-b5ca-869c3b6534501"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d545f927-257b-463a-bdbd-2861d114cf389"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-14131094-a1d1-4f4d-bf79-0ee2cfac7b603"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d2a65ea-4c8e-4512-8b09-0de332fbc4359"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar 1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e20c9000-bb1c-465b-8dfd-98d77a5c81a67"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Juni 1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6595fc4d-acbf-417f-b333-2cf816bbb0db9"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (17. Mai 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-9edd6d7d-3e39-4147-9119-6a9f79e9b0f99"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar 1712)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-804359b5-bea1-4dca-b2d3-cba6417736c47"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Februar/März 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="schlesien">
+                        <placeName ref="http://www.geonames.org/3066138/silesia.html"
+                            >Schlesien</placeName>
+                        <location>
+                            <geo>51, 18</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4052678-1"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66f6e0cd-f3a9-412f-949f-0666618ece665"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (6. Juni 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b7b93f53-cd94-450e-a3c2-747bd4fbbd880"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 11. September 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="sorau">
+                        <placeName ref="http://www.geonames.org/3080644/zary.html">Sorau</placeName>
+                        <location>
+                            <geo>51.64205, 15.13727</geo>
+                            <note type="references">
+                                <ref target="http://d-nb.info/gnd/64338-5"/>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                            </note>
+                        </location>
+                    </place>
+
+                    <!--<place xml:id="thierbach"><placeName ref="http://www.geonames.org/2822773/thierbach.html">Thierbach</placeName>
+                    <location>
+                        <geo>50.35389, 11.66186</geo>
+                    </location>
+                    <note type="references"><ref target="tei-transcript.xml">PK16_75</ref></note>
+                </place>-->
+
+                    <place xml:id="thimmendorf">
+                        <placeName ref="http://www.geonames.org/2822719/thimmendorf.html"
+                            >Thimmendorf</placeName>
+                        <location>
+                            <geo>50.53838, 11.57045</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/1054784396"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-5fe8cd30-c333-4bf4-ab95-8e7caae778a64"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="thurnau">
+                        <placeName ref="http://www.geonames.org/2822522/thurnau.html"
+                            >Thurnau</placeName>
+                        <location>
+                            <geo>50.02542, 11.39348</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4106310-7"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="titschendorf">
+                        <placeName ref="http://www.geonames.org/2822080/titschendorf.html"
+                            >Titschendorf</placeName>
+                        <location>
+                            <geo>50.38652, 11.52678</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4768096-9"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6da36c50-6978-4892-b187-c47caa50667d3"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 21. August 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="unterlemnitz">
+                        <placeName ref="http://www.geonames.org/2819162/unterlemnitz.html"
+                            >Unterlemnitz</placeName>
+                        <location>
+                            <geo>50.47193, 11.62128</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/7577793-9"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-dac4f468-da26-4767-86a2-9157fe3580268"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 8. Oktober 1717</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-0284a1c4-0b61-4b69-94f9-e3d54330e2e52"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 9. November 1717</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="untergreiz">
+                        <placeName ref="http://www.geonames.org/11049047/lower-castle-greiz.html"
+                            >Untergreiz</placeName>
+                        <location>
+                            <geo>50.65602, 12.20003</geo>
+                        </location>
+                        <note type="references"><ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fac3877b-78f9-410b-9990-8f56c30a54706"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1e493e32-85ba-4ca3-b168-82c791afbcc05"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="vogtland">
+                        <placeName ref="http://www.geonames.org/2816787/vogtland.html"
+                            >Vogtland</placeName>
+                        <location>
+                            <geo>50.5, 12.25</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4063754-2"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                        </note>
+                    </place>
+
+                    <!--<place xml:id="waldenburg"><placeName ref="http://www.geonames.org/2815074/waldenburg.html">Waldenburg</placeName>
+                    <location>
+                        <geo>50.87653, 12.59919</geo>
+                    </location>
+                    <note type="references"><ref target="tei-transcript.xml">PK16_50</ref></note>
+                </place>-->
+
+                    <place xml:id="weissenfels">
+                        <placeName ref="http://www.geonames.org/2811899/weissenfels.html"
+                            >Weißenfels</placeName>
+                        <location>
+                            <geo>51.20148, 11.96843</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4065247-6"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e91cd7c6-ebae-4c83-9d3e-25e770fed8c29"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 26. November 1713</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="wetzlar">
+                        <placeName ref="http://www.geonames.org/2809889/wetzlar.html"
+                            >Wetzlar</placeName>
+                        <location>
+                            <geo>50.56109, 8.50495</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4065878-8"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-be5c5ca1-a24b-406a-812e-406bda362cc06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 7. Februar 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-4c9889ee-5262-4dc9-ae1d-f343a10b598c6"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 2. März 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-b3e98f42-aaa2-49a7-8538-5633b984d4043"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Mai 1712)</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="wien">
+                        <placeName ref="http://www.geonames.org/2761369/viennawien.html"
+                            >Wien</placeName>
+                        <location>
+                            <geo>48.20849, 16.37208</geo>
+                            <note type="references">
+                                <ref target="http://d-nb.info/gnd/4066009-6"/>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6ef73966-c45b-4993-898f-c10997dbdb671"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Mai 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                                <ref
+                                    target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-6d8482ab-0fb4-489a-b862-ca41d6f875c42"
+                                        >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 25. Juni 1715</ref>
+                            </note>
+                        </location>
+                    </place>
+
+                    <place xml:id="wildenfels">
+                        <placeName ref="http://www.geonames.org/2808956/wildenfels.html"
+                            >Wildenfels</placeName>
+                        <location>
+                            <geo>50.66784, 12.60886</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4422710-3"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-5fe8cd30-c333-4bf4-ab95-8e7caae778a64"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.J. (November 1713)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e4328860-997d-4a95-b6d1-6499eb193e233"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1714/1715)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-d31ffd45-8acf-42b4-8215-a069606749313"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 27. März 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="wurzbach">
+                        <placeName ref="http://www.geonames.org/2805623/wurzbach.html"
+                            >Wurzbach</placeName>
+                        <location>
+                            <geo>50.46357, 11.53779</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4261937-3"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-e109097f-09b8-41e5-ab46-4ce2de0aa4798"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 17. November 1711</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-bff0273d-46da-4192-9493-9fc34579a0e61"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (1713/1714)</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-f91aeb4e-3cb6-4fb3-bd89-2109f240bc619"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., 13. März 1714</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-471c45d5-cf59-4ed8-a52d-e646a66a84e06"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 19. Juni 1713</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-23f01892-1f40-4325-9d13-13c710234f483"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 14. November 1714</ref>
+                        </note>
+                    </place>
+
+                    <place xml:id="zeulenroda">
+                        <placeName ref="http://www.geonames.org/2804654/zeulenroda.html"
+                            >Zeulenroda</placeName>
+                        <location>
+                            <geo>50.65278, 11.98377</geo>
+                        </location>
+                        <note type="references">
+                            <ref target="http://d-nb.info/gnd/4196920-0"/>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-66bf9150-90f7-4449-acfb-f7a8358200732"
+                                    >Erdmuthe Benigna an Heinrich XXIV., Ebersdorf, 15. Dezember 1716</ref>
+                            <ref
+                                target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-8bc38afd-2658-40c8-9e86-dece5e083bc34"
+                                    >Erdmuthe Benigna an Heinrich XXIV., o.O., o.D. (Januar/Februar 1712)</ref>
+                        </note>
+                    </place>
+                </listPlace>
+            </p>
+        </body>
+    </text>
+</TEI>
